@@ -1,0 +1,20 @@
+{
+  "name": "passportauth",
+  "version": "1.0.0",
+  "description": "Implement authentication using passport jwt module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdelbaki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "jwt-simple": "^0.5.1",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "winston": "^2.3.1"
+  }
+}
